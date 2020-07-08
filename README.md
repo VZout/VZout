@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <strong>
     Rendering Engineer working at <a href="https://www.embark-studios.com/">Embark Studios</a>
@@ -5,6 +7,8 @@
     Interested in anything graphics, high performance compute and hardware.
   </strong>
 </p>
+
+---
 
 ### Projects of Interest
 
