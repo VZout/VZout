@@ -29,6 +29,13 @@
 </details>
 </h3>
 
+### Experience
+
+* [**Embark Studios**]() - Rendering Engineer
+* [**Traverse Research**]() - Rendering Engineer
+* [**Breda University**]() - Graduate
+* [**Team6 Games**]() - Gameplay Programmer
+
 ### Other Interests
 
 * Ultra Endurance Cycling
