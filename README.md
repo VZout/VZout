@@ -35,9 +35,9 @@
 
 ### Other Interests
 
-* Ultra Endurance Cycling
-* Fitness & Strongman
-* Nature, Camping and Bike Packing
+* Ultra endurance cycling
+* Fitness & strongman
+* Nature, camping and bike packing
 
 <p align="center">
     <br><br>
