@@ -37,7 +37,7 @@
 
 * Ultra Endurance Cycling
 * Fitness & Strongman
-* Nature, Camping and Travel
+* Nature, Camping and Bike Packing
 
 <p align="center">
     <br><br>
