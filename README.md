@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <strong>
+    Rendering Engineer working at <a href="https://www.embark-studios.com/">Embark Studios</a>
+  </strong><br><br>
+  <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-blue?style=for-the-badge"></a>
+</p>
 
-<!--
-**VZout/VZout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects of Interest
+* [**Wisp Renderer** - *RTX Renderer with Autodesk Maya integration*](https://github.com/TeamWisp/WispRenderer)
+* [**RTX Mesh Shaders** - *Mesh Shaders combined with ray tracing*](https://github.com/VZout/RTX-Mesh-Shaders)
