@@ -40,6 +40,6 @@
 
 <p align="center">
     <br><br>
-    <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-blue?style=for-the-badge"></a><br>
+    <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-red?style=for-the-badge"></a>
 </p>
 
