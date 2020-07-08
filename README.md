@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-blue?style=for-the-badge"></a><br>
-</p>
-
 ---
 
 <p align="center">
@@ -41,3 +37,9 @@
 * Ultra Endurance Cycling
 * Fitness
 * Nature, Camping and Travel
+
+<p align="center">
+    <br><br>
+    <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-blue?style=for-the-badge"></a><br>
+</p>
+
