@@ -13,7 +13,8 @@
 ### Projects of Interest
 
 * [**Wisp Renderer** - *RTX Renderer with Autodesk Maya integration*](https://github.com/TeamWisp/WispRenderer)
-* [**RTX Mesh Shaders** - *Mesh Shaders combined with ray tracing*](https://github.com/VZout/RTX-Mesh-Shaders)
+* [**RTX Mesh Shaders** - *Mesh shaders combined with ray tracing*](https://github.com/VZout/RTX-Mesh-Shaders)
+* Skygge ([Under NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)) - *Competing with Epic's Micropolygon geometry using **geometry images** and **mesh shaders***
 
 <h3>
 <details>
