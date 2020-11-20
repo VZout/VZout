@@ -41,8 +41,11 @@
 * Fitness & strongman
 * Nature, camping and bike packing
 
+### Github Stats
+ 
+[![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=VZout&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/VZout)
+
 <p align="center">
     <br><br>
     <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-red?style=for-the-badge"></a>
 </p>
-
