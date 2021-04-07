@@ -32,7 +32,7 @@
 
 * [**Embark Studios**]() - *Rendering Engineer*
 * [**Traverse Research**]() - *Rendering Engineer Intern*
-* [**Breda University**]() - *Graduate (Cum laude)*
+* [**Breda University**]() - *Alumni (Cum laude)*
 * [**Team6 Games**]() - *Gameplay Programmer*
 
 ### Other Interests
