@@ -31,7 +31,7 @@
 ### Experience
 
 * [**Embark Studios**]() - *Rendering Engineer*
-* [**Traverse Research**]() - *Rendering Engineer*
+* [**Traverse Research**]() - *Rendering Engineer Intern*
 * [**Breda University**]() - *Graduate*
 * [**Team6 Games**]() - *Gameplay Programmer*
 
