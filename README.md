@@ -49,3 +49,6 @@
     <br><br>
     <a href="https://vzout.com"><img src="https://img.shields.io/badge/website-vzout.com-red?style=for-the-badge"></a>
 </p>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: repeat; width: 130vw; opacity: 0.2; background: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*0WAXTjp41rxUZVzxZwGPyw.png');]{x0000}$}
